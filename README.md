@@ -76,6 +76,8 @@ This end-to-end data analysis project explores household financial data using **
 ## 🤝 Connect
 
 **LinkedIn:** [https://www.linkedin.com/in/jiveshh/]
+**GitHub:** [https://github.com/jiveshhmishra]
+**Website** [https://jivesh.carrd.co/]
 
 ---
 
